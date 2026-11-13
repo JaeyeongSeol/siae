@@ -4,7 +4,7 @@
 **Textbook:** Chapter 7 is named on the title slide. The textbook file was not provided.  
 **Exam review:** `MT2-Review FA2026.docx` (MT2 covers Chapters 7, 20, 10, 11, 12)
 
-Day-before review for Midterm 2: [SUMMARY-MT2.md](SUMMARY-MT2.md).
+Day-before review for Midterm 2: [SUMMARY.md](SUMMARY.md).
 
 ---
 

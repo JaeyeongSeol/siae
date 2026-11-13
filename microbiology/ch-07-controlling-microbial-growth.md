@@ -1,7 +1,10 @@
 # Chapter 7 — Controlling Microbial Growth
 
 **Slides:** L6, `Controlling Microbial Growth-2026ST` (34 slides)  
-**Textbook:** Chapter 7 is named on the title slide. The textbook file was not provided.
+**Textbook:** Chapter 7 is named on the title slide. The textbook file was not provided.  
+**Exam review:** `MT2-Review FA2026.docx` (MT2 covers Chapters 7, 20, 10, 11, 12)
+
+Day-before review for Midterm 2: [SUMMARY-MT2.md](SUMMARY-MT2.md).
 
 ---
 
@@ -117,6 +120,16 @@ Likely exam content. These are the L6 objectives, and several connect to earlier
 
 ---
 
-## 3. Quiz items from this chapter
+## 3. MT2 review questions (exam format)
 
-The attached quiz screenshots stop at the oxygen-group question. They do not include a control-of-growth item. Use the definitions and the resistance order above for that part of the exam.
+Answer from the slides only.
+
+1. **Terminologies?** Sterilization / disinfection / sanitization / antisepsis / -cide / -static / sepsis / asepsis — see the definitions table.
+2. **Disc dilution method?** Inoculate bacteria on agar → place disinfectant discs → incubate → measure zones of inhibition.
+3. **Factors that affect the death rate?** Population size, composition, concentration, time, environment (temperature, organic matter), microbial characteristics (spores vs vegetative).
+4. **Physical and chemical control?** Physical: moist/dry heat, pasteurization, filtration, cold, desiccation, radiation. Chemical: phenols, chlorhexidine, halogens, alcohols, heavy metals, quats, gases, peroxygens.
+5. **Disinfect vs sterilize?** Sterilization removes all microbial life. Disinfection does not. Autoclave / ethylene oxide / incineration sterilize. Most surface chemicals disinfect. Alcohols and many antiseptics do not sterilize.
+6. **Moist vs dry heat?** Moist coagulates protein and is more effective. Dry oxidizes and needs higher temperature and longer time.
+7. **Common chemicals?** See the chemical lists in the summary and definitions.
+8. **Pasteurization?** Reduces pathogens without changing taste. Milk methods and *M. tuberculosis* target are on the slides.
+9. **Dermatophyte diseases (*Trichophyton*, *Microsporum*, *Epidermophyton*)?** Listed under Chapter 7 in the review packet, but they are taught in **Chapter 12**. See [ch-12-eukaryotes.md](ch-12-eukaryotes.md).

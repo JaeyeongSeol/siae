@@ -1,12 +1,25 @@
-# Microbiology midterm study guide
+# Microbiology study guide
 
-Built from the lecture slides (main source) and the attached quiz. Textbook chapter files were not provided, so there is no textbook wording to compare. If a slide asks a question and does not answer it, the chapter file says so.
+Built from the lecture slides (main source). Textbook chapter files were not provided, so there is no textbook wording to compare. If a slide asks a question and does not answer it, the chapter file says so.
 
-Exam format: **multiple choice**, in the same style as the quiz screenshots.
+Exam format: **multiple choice**. Midterm 1 used quiz screenshots. Midterm 2 uses `MT2-Review FA2026.docx` as the exam-style question list.
 
-Start with [SUMMARY.md](SUMMARY.md) the day before the exam. Each chapter file opens with a short summary, then the definitions in the slide’s own words.
+## Midterm 2 (current)
 
-The slides skip textbook Chapter 2. The lectures that were provided are Chapters 1, 3, 4, 5, 6, and 7.
+**Coverage:** Chapters **7, 20, 10, 11, 12** (up to the last lecture).
+
+Start with [SUMMARY-MT2.md](SUMMARY-MT2.md) the day before the exam.
+
+| Lecture | Textbook chapter on the title slide | File |
+| --- | --- | --- |
+| L6 Controlling microbial growth | Chapter 7 | [ch-07-controlling-microbial-growth.md](ch-07-controlling-microbial-growth.md) |
+| L7 Antibiotics | Chapter 20 | [ch-20-antibiotics.md](ch-20-antibiotics.md) |
+| L8 Bacteria | Chapters 10 & 11 | [ch-10-11-bacteria.md](ch-10-11-bacteria.md) |
+| L9 Eukaryotes | Chapter 12 | [ch-12-eukaryotes.md](ch-12-eukaryotes.md) |
+
+## Midterm 1 (earlier)
+
+Start with [SUMMARY.md](SUMMARY.md).
 
 | Lecture | Textbook chapter on the title slide | File |
 | --- | --- | --- |
@@ -17,4 +30,4 @@ The slides skip textbook Chapter 2. The lectures that were provided are Chapters
 | L5 Microbial growth | Chapter 6 | [ch-06-microbial-growth.md](ch-06-microbial-growth.md) |
 | L6 Controlling microbial growth | Chapter 7 | [ch-07-controlling-microbial-growth.md](ch-07-controlling-microbial-growth.md) |
 
-Slide numbers are the PowerPoint numbers. Slide 1 is the title slide.
+Slide numbers are the PowerPoint numbers. Slide 1 is the title slide. Chapter 2 was not in the provided slides.

@@ -76,7 +76,7 @@ Antiviral drugs and “other antimicrobials” are labeled **FYI** on the slides
 
 | Term | Definition (wording from the slides) | Slide # | Textbook note |
 | --- | --- | --- | --- |
-| Chemotherapy | “Use of drugs to treat a disease” | 4 | Textbook file was not provided. |
+| Chemotherapy | “Use of drugs to treat a disease” | 4 | See section 4. |
 | Antimicrobial drugs | “Interfere with growth of microbes within a host” | 4 | |
 | Antibiotic | “Substance produced by a microbe that, in small amounts, kills/inhibits another microbe” | 4 | Review asks how the definition has changed. The slides give this wording only. They do not print a newer, broader definition. |
 | Selective toxicity | Named as Ehrlich’s concept. Figure text: drug must not interfere with essential functions of the host | 3, 9 | |
@@ -144,3 +144,42 @@ Answer from the slides only.
 8. **Bactericidal vs bacteriostatic explanation?** Not answered as a general rule on L7.
 9. **How resistance develops? Examples?** Entry block, efflux, β-lactamase, altered PBPs in MRSA, pre-formed folic acid. Examples: MRSA, VRE, *P. aeruginosa* efflux.
 10. **Why is resistance a problem? Prevention?** Factors and prevention lists on slides 24–25.
+
+---
+
+## 4. Textbook notes (Tortora 14e)
+
+No textbook PDF was available. These notes come from the textbook’s known content and were not checked against the 14e page text, so there are no page numbers.
+
+For the exam, the slide wording comes first. Several MT2 review questions are answered in the book and not on the slides. Those answers are below.
+
+### Review questions the book answers
+
+1. **How the definition of antibiotic changed.** Originally, an antibiotic was a substance **produced by a microorganism** that, in small amounts, inhibits another microorganism. That is the slide’s definition. Today the word is used more loosely and also covers **semisynthetic and synthetic** drugs. The broad term is **antimicrobial drug**.
+2. **Which group makes most antibiotics in use.** ***Streptomyces*** (actinomycetes). The book says that more than half of our antibiotics come from *Streptomyces* species. Other producers named in the book: *Bacillus*, and the fungi *Penicillium* and *Cephalosporium*.
+3. **Narrow vs broad spectrum: advantages and disadvantages.**
+   - Broad spectrum: useful when the cause is not yet known. Disadvantage: it also kills the **normal microbiota**, which can lead to a **superinfection**, an overgrowth of resistant organisms such as *Candida* or *C. difficile*.
+   - Narrow spectrum: leaves more of the normal microbiota alone. Disadvantage: you need to know which organism you are treating.
+4. **Why some drugs are bactericidal and others bacteriostatic.** Drugs that block **cell-wall synthesis** make the cell burst, so they kill (bactericidal). Most drugs that block **protein synthesis** only stop growth (bacteriostatic). If the drug is removed, the cells can grow again. **Aminoglycosides**, such as streptomycin, are an exception and are bactericidal.
+5. **Drug choices for named organisms.** The review says to assume there is no resistance and to pick a cheap oral drug with few side effects. The table below is that reasoning, based on what the book says about each organism. Confirm the expected answers with your professor.
+
+| Organism | Reasoning from the book |
+| --- | --- |
+| *Streptococcus pyogenes* | Penicillin. With no resistance, it is cheap and effective |
+| *Streptococcus pneumoniae* | Penicillin, for the same reason |
+| *Treponema pallidum* | Penicillin. The slide also lists *T. pallidum* under the natural penicillins |
+| *Neisseria gonorrhoeae* | Penicillin if there is no resistance. The slide lists it under the penicillins. The book notes that resistance is widespread in practice, so cephalosporins are used |
+| *Mycobacterium tuberculosis* | Isoniazid plus rifampin, with ethambutol. These are on the slide |
+| *Mycoplasma pneumoniae* | **Not** a penicillin, because it has no cell wall. The book uses a macrolide (erythromycin or azithromycin) or tetracycline |
+| *Staphylococcus aureus* | Penicillin if there is no resistance. With penicillinase, use a penicillinase-resistant penicillin. For MRSA, vancomycin |
+
+### Where the book adds detail to the slide
+
+- **Resistance genes:** the book explains that resistance genes are often carried on **plasmids (R factors)**. They spread between bacteria by conjugation, transduction, and transformation.
+- **The five resistance mechanisms** in the book match the slide: destroying the drug with an enzyme, blocking entry, changing the target, pumping the drug out (efflux), and using a different metabolic pathway.
+- **MBC (minimal bactericidal concentration):** the lowest concentration that **kills** the bacteria. MIC, on the slide, is the lowest concentration that **inhibits** growth. MBC is not on the slides.
+- **Combination therapy:** the book describes **synergism**, where two drugs together work better than either alone, and **antagonism**, where one drug interferes with the other. The slide only says to use two or more drugs at once.
+
+### Same in the slides and the book
+
+Selective toxicity; spectrum terms; TI = toxic dose ÷ effective dose; the five modes of action; β-lactams block peptidoglycan cross-linking; vancomycin for MRSA; isoniazid and ethambutol act on mycolic acid; Kirby-Bauer zones; the MIC.

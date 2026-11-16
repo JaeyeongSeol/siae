@@ -86,6 +86,17 @@ Bacteria = prokaryotes (domain Bacteria); this class focuses on pathogens. Ident
 
 ---
 
+## Where the textbook (Tortora 14e) differs from the slides
+
+Details are in section 4 of each chapter file. These notes come from the textbook’s known content and were not checked against the page text. For the exam, the slide wording comes first.
+
+- **Ch 7:** The book’s sterilization **includes endospores**. Disinfection and antisepsis remove **vegetative** pathogens: disinfection on **nonliving** surfaces, antisepsis on **living** tissue. **Degerming** is only in the book. 70% alcohol works because water helps denature proteins.
+- **Ch 20:** The original antibiotic definition was a substance produced by a microbe. Today it also covers semisynthetic and synthetic drugs. **Streptomyces** makes more than half of the antibiotics in use. Broad-spectrum drugs can cause **superinfection**. Cell-wall inhibitors kill (bactericidal). Most protein-synthesis inhibitors only stop growth (bacteriostatic); aminoglycosides are the exception. *Mycoplasma* has no wall, so penicillin does not work.
+- **Ch 10–11:** The book may use the old phylum names (Proteobacteria, Firmicutes, Tenericutes, Actinobacteria). The slide uses the new names. L8 slide 18 calls Clostridia “wall-less,” which looks like an error: that row describes *Mycoplasma*.
+- **Ch 12:** The book lists **5** mycoses. It adds superficial and opportunistic to the slide’s 3. It defines septate (with cross-walls) vs coenocytic (no cross-walls, many nuclei). The book’s name for *Giardia lamblia* is *G. intestinalis*. Bacterial vaginosis shows clue cells. Yeast vaginitis shows budding Gram-positive yeast.
+
+---
+
 ## Memorize first for MT2
 
 1. Control terms + resistance order + autoclave / pasteurization numbers + 70% alcohol  

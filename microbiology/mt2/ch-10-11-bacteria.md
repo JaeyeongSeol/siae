@@ -79,7 +79,7 @@ Enterics on the slide: Gram-negative rods, peritrichous, facultative anaerobes, 
 
 | Term | Definition (wording from the slides) | Slide # | Textbook note |
 | --- | --- | --- | --- |
-| Bergey’s Manual | “provides identification schemes for identifying members of bacteria and archaea Domains.” | 4 | Textbook file was not provided. |
+| Bergey’s Manual | “provides identification schemes for identifying members of bacteria and archaea Domains.” | 4 | The book separates *Determinative* (identification) from *Systematic* (classification) Bergey’s. See section 4. |
 | Dichotomous keys | “Identification keys based on successive questions.” “Each question has two possible answers” | 7–8 | |
 | Cladograms | “Maps that show evolutionary relationships among organisms; based on rRNA/DNA sequences.” Also: “Branching diagram to illustrate the evolutionary relationships” | 7, 10 | |
 | Binomial nomenclature | Linnaeus. “Genus name and specific epithet (species).” Genus capitalized; species lowercase; italicized or underlined | 14 | |
@@ -120,3 +120,39 @@ Likely exam content from the objectives and the MT2 review.
 5. **Hierarchy with examples?** Use the suffix rules and examples: e.g. Domain Bacteria, Kingdom Pseudomonadati, Phylum Pseudomonadota, Class Gammaproteobacteria, Order Enterobacteriales, Family Enterobacteriaceae, Genus *Escherichia*, Species *E. coli*.
 6. **How do we name a microbe?** Binomial: Genus species, italicized.
 7. **Major phyla and pathogens?** Use the Gram-negative and Gram-positive tables above.
+
+---
+
+## 4. Textbook notes (Tortora 14e)
+
+No textbook PDF was available. These notes come from the textbook’s known content and were not checked against the 14e page text, so there are no page numbers.
+
+For the exam, the slide wording comes first. The biggest difference in this chapter is **names**.
+
+### Phylum names: the slide uses the new names
+
+The slide uses the 2021–2024 names and the new bacterial kingdoms. The textbook may use the older phylum names, and it describes bacteria with no kingdom rank. Learn the slide name, and recognize the old one in case a question uses it.
+
+| Older name (textbook) | New name (slide) | Examples on the slides |
+| --- | --- | --- |
+| Proteobacteria | Pseudomonadota | *Rickettsia*, *Neisseria*, *E. coli*, *Pseudomonas* |
+| Firmicutes | Bacillota | *Staphylococcus*, *Streptococcus*, *Clostridium* |
+| Tenericutes (class Mollicutes) | Mycoplasmatota | *Mycoplasma* |
+| Actinobacteria | Actinomycetota | *Mycobacterium*, *Streptomyces*, *Gardnerella* |
+| Bacteroidetes | Bacteroidota | *Bacteroides* |
+| No kingdom for bacteria | Kingdoms ending in **-ati** | Pseudomonadati, Bacillati |
+
+### Probable slide error
+
+L8 slide 18 lists Clostridia as “Low G + C **wall-less** bacteria.” In the book, *Clostridium* is an **endospore-forming obligate anaerobic rod with a cell wall**. The wall-less group is **Mollicutes (*Mycoplasma*)**, which is the next row of the same table. The later *Clostridium* slide on L8 also describes obligate anaerobic endospore formers.
+
+### Where the book adds detail to the slide
+
+- **Bergey’s Manual:** the book distinguishes *Bergey’s Manual of Determinative Bacteriology* (identification, which is the slide’s use) from *Bergey’s Manual of Systematic Bacteriology* (classification by evolutionary relationships).
+- **Three domains:** the book says Woese based the domains on **rRNA** sequences. That matches this lecture.
+- ***Mycoplasma*:** the book stresses that, with no cell wall, it is not affected by penicillin. See the drug table in Chapter 20.
+- ***Gardnerella vaginalis*:** the book places it with the high-G+C Gram-positive bacteria (Actinobacteria), as the slide does. The book notes that its Gram reaction is variable.
+
+### Same in the slides and the book
+
+Prokaryotic species = a population of cells with similar characteristics; eukaryotic species = organisms that interbreed; clone; binomial nomenclature (Linnaeus); dichotomous keys; cladograms; G+C content; enterics are Gram-negative, facultatively anaerobic rods.

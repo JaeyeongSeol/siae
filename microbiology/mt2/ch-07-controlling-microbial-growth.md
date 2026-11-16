@@ -133,3 +133,38 @@ Answer from the slides only.
 7. **Common chemicals?** See the chemical lists in the summary and definitions.
 8. **Pasteurization?** Reduces pathogens without changing taste. Milk methods and *M. tuberculosis* target are on the slides.
 9. **Dermatophyte diseases (*Trichophyton*, *Microsporum*, *Epidermophyton*)?** Listed under Chapter 7 in the review packet, but they are taught in **Chapter 12**. See [ch-12-eukaryotes.md](ch-12-eukaryotes.md).
+
+---
+
+## 4. Textbook notes (Tortora 14e)
+
+No textbook PDF was available. These notes come from the textbook’s known content and were not checked against the 14e page text, so there are no page numbers.
+
+For the exam, the slide wording comes first. Use these notes when a question is worded the way the book words it, or when the slide asks a question and does not answer it.
+
+### Where the book’s definition differs from the slide
+
+| Term | Slide | Textbook |
+| --- | --- | --- |
+| Sterilization | Removal of all forms of microbial life | Same, and says it **includes endospores**. Prions may survive normal sterilization. The book also defines **commercial sterilization** for canned food: enough heat to kill *C. botulinum* endospores |
+| Disinfection | Chemicals that kill or inhibit disease-causing microbes; does not kill all | Destruction of **vegetative** pathogens on **inanimate** (nonliving) objects. Endospores may survive |
+| Antisepsis | Chemicals on living tissue | Destruction of **vegetative** pathogens on **living tissue** |
+| Degerming | Not on the slides | Removing microbes from a **limited area**, for example an alcohol swab before an injection, or handwashing |
+| Sanitization | Reduces the population to acceptable standards | Same idea: lowers counts on eating utensils to safe levels |
+| Testing a disinfectant | “Disc dilution method” | The book describes the **use-dilution test** and the **disk-diffusion method** separately. The slide’s steps (discs, then zones of inhibition) match the book’s **disk-diffusion** method |
+
+### Same in the slides and the book
+
+- Moist heat works by denaturing (coagulating) protein. Dry heat works by oxidation.
+- Autoclave: 121°C, 15 psi, 15 minutes.
+- HTST pasteurization: 72°C for 15 seconds. The slide’s 62.8°C hold is the book’s classic 63°C, 30-minute method.
+- TDP, TDT, and DRT have the same meanings.
+- Resistance order, with prions and endospores at the top.
+- Quats do not work on endospores or mycobacteria. *Pseudomonas* can grow in them.
+
+### Answers the book gives to questions the slide leaves open
+
+- **Why 70% alcohol works better than 100%:** water is needed to denature proteins. Pure alcohol is a poor denaturant.
+- **Why mycobacteria resist water-based biocides:** their waxy, lipid-rich (mycolic acid) wall keeps water-based chemicals out.
+- **Why naked viruses are more resistant than enveloped viruses:** many biocides act on the lipid envelope. Viruses without an envelope do not have that target.
+- **Why the autoclave pressure is lowered slowly before opening a load of liquid:** superheated liquid boils over if the pressure drops suddenly. Dry solid instruments do not have that problem.

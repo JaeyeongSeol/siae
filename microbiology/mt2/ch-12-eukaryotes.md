@@ -90,9 +90,9 @@ Reduced digestive system, nervous system, and locomotion; complex reproduction. 
 
 | Term | Definition (wording from the slides) | Slide # | Textbook note |
 | --- | --- | --- | --- |
-| Thallus | “body” | 6 | Textbook file was not provided. |
+| Thallus | “body” | 6 | See section 4. |
 | Hyphae | “filaments” | 6 | |
-| Septate / coenocytic hyphae | Named as terms to know | 6 | Detailed structural definitions are not written beyond the names |
+| Septate / coenocytic hyphae | Named as terms to know | 6 | Book: septate hyphae have cross-walls; coenocytic hyphae have none and are long cells with many nuclei |
 | Mycelium | “mass of filaments” | 6 | |
 | Pseudohyphae | “A result of incomplete budding, no cytoplasmic connection” | 6 | |
 | Fungal spores | Used in reproduction (asexual or sexual). Contrast: bacterial endospores are for survival | 6 | |
@@ -137,3 +137,49 @@ Likely exam content from the objectives and the MT2 review.
 6. **Vaginosis vs vaginitis?** BV = *Gardnerella* (Ch 10–11). Vaginitis from *Candida* = yeast mycosis (this chapter). Gram distinction: review asks it; full stain criteria are not printed on L9.
 7. **Cutaneous / subcutaneous / systemic?** Dermatophytes vs below skin vs whole body.
 8. **What causes ringworm?** Dermatophytes—*Microsporum canis* is called a major cause; also *Trichophyton* and *Epidermophyton*.
+
+---
+
+## 4. Textbook notes (Tortora 14e)
+
+No textbook PDF was available. These notes come from the textbook’s known content and were not checked against the 14e page text, so there are no page numbers.
+
+For the exam, the slide wording comes first. This chapter is where the book fills in the most terms the slide only names.
+
+### Where the book differs from the slide
+
+| Topic | Slide | Textbook |
+| --- | --- | --- |
+| Types of mycoses | **3**: cutaneous, subcutaneous, systemic | **5**: systemic, subcutaneous, cutaneous, **superficial** (only the surface of hair shafts and skin), and **opportunistic** (harmless fungi that cause disease when the host is weakened, for example *Candida* or *Aspergillus*) |
+| *Giardia* name | *Giardia lamblia* | The book uses ***Giardia intestinalis*** and says it is also called *G. lamblia* or *G. duodenalis*. Same organism |
+| Definitive host | Host in which the parasite matures or reaches the reproductive stage | Host in which the parasite reaches **sexual maturity**. Same idea |
+| Intermediate host | Harbors a developmental stage, for example a larva | Harbors the **larval or encysted** stage. Same idea |
+
+### Terms the slide names and the book defines
+
+- **Septate hyphae:** hyphae divided by cross-walls (septa) into cell-like units, usually one nucleus each.
+- **Coenocytic hyphae:** no septa. One long continuous cell with many nuclei.
+- **Pseudohyphae:** buds that do not detach and form a short chain. This matches the slide’s “incomplete budding.”
+- **Asexual vs sexual reproduction in fungi:** asexual spores form by mitosis from one parent and are genetically identical. Sexual spores form when nuclei from two opposite mating strains fuse.
+- **Sexual spores of the three phyla on the slide:** Zygomycota form zygospores. Ascomycota form ascospores. Basidiomycota form basidiospores.
+- **Trophozoite:** the active, feeding, growing form of a protozoan.
+- **Cyst:** a protective, resting form that survives outside the host.
+
+### *Candida* and athlete’s foot
+
+The book, like the slide, gives **athlete’s foot (tinea pedis)** to the **dermatophytes** (*Trichophyton*, *Epidermophyton*), not to *Candida*. The book describes *Candida albicans* as an **opportunistic** yeast. It causes thrush and vaginitis, often after broad-spectrum antibiotics kill the normal bacteria. That is the superinfection idea from Chapter 20.
+
+### Vaginosis vs vaginitis (review question)
+
+The book covers this in its reproductive-system chapter, which is **not** in the MT2 chapter list:
+
+| | Bacterial vaginosis | Yeast vaginitis (candidiasis) |
+| --- | --- | --- |
+| Inflammation | None, which is why it is “-osis” | Yes, which is why it is “-itis” |
+| Cause | *Gardnerella vaginalis* | *Candida albicans* |
+| Signs | Thin discharge, fishy odor | Itching, thick white discharge |
+| Gram stain | **Clue cells**: vaginal cells covered with small Gram-variable rods; few lactobacilli | Large, oval, **budding Gram-positive yeast** cells and pseudohyphae |
+
+### Same in the slides and the book
+
+Dimorphic fungi are yeast-like at 37°C and mold-like at 25°C; dermatophytes cause ringworm (tinea); mycotoxins such as aflatoxin; *Trichomonas* has no cyst stage; cats are the definitive host of *Toxoplasma*; the *Anopheles* mosquito is the definitive host of *Plasmodium* and humans are intermediate; monoecious and dioecious helminths; *Taenia* tapeworms from undercooked beef and pork.

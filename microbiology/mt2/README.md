@@ -6,6 +6,8 @@ Built from the lecture slides (main source) and `MT2-Review FA2026.docx` (exam-s
 
 Exam format: **multiple choice**.
 
+**Printable PDF:** [pdf/MT2-Study-Guide.pdf](pdf/MT2-Study-Guide.pdf) is an easy-English study guide with slide-vs-textbook differences and a 32-question practice quiz.
+
 Start with [SUMMARY.md](SUMMARY.md) the day before the exam. Each chapter file opens with a short summary, then the definitions in the slide’s own words.
 
 | Lecture | Textbook chapter on the title slide | File |
